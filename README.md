@@ -4,26 +4,30 @@ Today Online Quiz System has become a fast growing examination method because of
 
 Here are few snapshots of the project :
 
-https://user-images.githubusercontent.com/77913500/146572459-aaa8ddcc-1460-43ad-a7ae-d2554dc7ee92.jpeg
+
+![1](https://github.com/kanikakj/Tamanna-Online_Quiz_System/assets/77913500/c2d16f6d-252a-4b61-a0bd-f3f5fc20d9da)
 
 Login/Register 
-(https://user-images.githubusercontent.com/77913500/146572566-ddba7b8a-e802-4a26-8eca-7c6bc7a03a1a.jpeg)
-(https://user-images.githubusercontent.com/77913500/146572568-57dc47f9-c794-4341-8fad-ff66de207d0c.jpeg)
+
+![2](https://github.com/kanikakj/Tamanna-Online_Quiz_System/assets/77913500/63e48040-48f2-420c-a1dc-30841eb2af5d)
+![3](https://github.com/kanikakj/Tamanna-Online_Quiz_System/assets/77913500/ebfd4fad-bd0e-44d1-9dc7-6b9fdf30d9dd)
+
 
 HOME:
-(https://user-images.githubusercontent.com/77913500/146572856-403a4e25-7b1f-4ef5-aa3a-7f18436e427f.jpeg)
+![4](https://github.com/kanikakj/Tamanna-Online_Quiz_System/assets/77913500/f123bdcc-def8-4814-a43c-e84affe45bd6)
 
 QUIZ:
-(https://user-images.githubusercontent.com/77913500/146572944-a6540d06-c102-456c-85cb-5082a9242ccf.jpeg)
+![5](https://github.com/kanikakj/Tamanna-Online_Quiz_System/assets/77913500/ec54a836-ca8f-474a-a6e6-60dc2cd5ced2)
 
 RESULT:
-(https://user-images.githubusercontent.com/77913500/146573055-10dcb379-932a-4f30-95f1-766f2fc662b2.jpeg)
+![6](https://github.com/kanikakj/Tamanna-Online_Quiz_System/assets/77913500/ae90df43-cb40-494b-9b96-65ade01215fb)
 
 HISTORY:
-(https://user-images.githubusercontent.com/77913500/146573139-6a78e9bf-165e-49c6-b9d0-d2d0de8d4f8b.jpeg)
+![7](https://github.com/kanikakj/Tamanna-Online_Quiz_System/assets/77913500/d67075a6-5260-4cd1-93d3-da1e45bc382d)
 
 RANKING:
-(https://user-images.githubusercontent.com/77913500/146573197-412940e5-7769-46b8-b0bb-a0f00030fae3.jpeg)
+![8](https://github.com/kanikakj/Tamanna-Online_Quiz_System/assets/77913500/56e420e5-ee91-427b-91b0-199f0af2a98f)
 
 GRAPHICAL REPRESENTATION:
 (https://user-images.githubusercontent.com/77913500/146573257-bd97facb-8129-4f68-a12f-dd7bac7ab282.jpeg)
+
